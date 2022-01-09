@@ -1,0 +1,15 @@
+git+https://github.com/subinps/pyrogram.git@session
+py-tgcalls==0.8.4
+parse-torrent-name
+tgcrypto
+yt-dlp
+youtube-search-python
+httpx==0.21.3
+youtube-search
+heroku3
+pillow
+motor
+dnspython
+pytz
+apscheduler
+python-dotenv
